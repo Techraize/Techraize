@@ -1,19 +1,72 @@
-//Get 24hr Stats
-{
-    "time": 1602832092060,  // time
-    "symbol": "BTC-USDT",   // symbol
-    "buy": "11328.9",   // bestAsk
-    "sell": "11329",    // bestBid
-    "changeRate": "-0.0055",    // 24h change rate
-    "changePrice": "-63.6", // 24h change price
-    "high": "11610",    // 24h highest price
-    "low": "11200", // 24h lowest price
-    "vol": "2282.70993217", // 24h volume，the aggregated trading volume in BTC
-    "volValue": "25984946.157790431",   // 24h total, the trading volume in quote currency of last 24 hours
-    "last": "11328.9",  // last price
-    "averagePrice": "11360.66065903",   // 24h average transaction price yesterday
-    "takerFeeRate": "0.001",    // Basic Taker Fee
-    "makerFeeRate": "0.001",    // Basic Maker Fee
-    "takerCoefficient": "1",    // Taker Fee Coefficient
-    "makerCoefficient": "1" // Maker Fee Coefficient
-}
+# Techraize
+
+![Profile Picture](link_to_profile_picture)
+
+## About Me
+
+I am a passionate and experienced blockchain developer with a keen interest in decentralized technologies and Web3 applications. With [number] years of experience in the industry, I have a strong background in blockchain development, smart contract programming, and decentralized application (DApp) development.
+
+## Skills
+
+- Blockchain Development
+- Smart Contracts
+- Solidity
+- Ethereum
+- Web3.js
+- Decentralized Finance (DeFi)
+- NFTs (Non-Fungible Tokens)
+- Cryptography
+- JavaScript
+- React
+- Node.js
+
+## Projects
+
+### [Project Name 1](link_to_project_1)
+Description of the project and your role.
+
+### [Project Name 2](link_to_project_2)
+Description of the project and your role.
+
+### [Project Name 3](link_to_project_3)
+Description of the project and your role.
+
+## Experience
+
+### [Company Name](link_to_company_website) (Dates)
+- Role: Description of your responsibilities and achievements.
+
+### [Company Name](link_to_company_website) (Dates)
+- Role: Description of your responsibilities and achievements.
+
+## Education
+
+- **Degree:** [Degree Name]
+- **University:** [University Name]
+- **Year:** [Year of Graduation]
+
+## Certifications
+
+- [Certification Name](link_to_certification)
+- [Certification Name](link_to_certification)
+- [Certification Name](link_to_certification)
+
+## Contact Me
+
+- Email: [Your Email Address]
+- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
+- GitHub: [Your GitHub Profile](link_to_github)
+- Twitter: [Your Twitter Profile](link_to_twitter)
+
+## Languages
+
+- English (Fluent)
+- [Language 2] (Proficient)
+- [Language 3] (Basic)
+
+## Hobbies
+
+- Hiking
+- Reading
+- Gaming
+- Cooking
